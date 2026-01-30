@@ -15,7 +15,7 @@ type Account struct {
 	Login     string    `json:"login"`
 	Password  string    `json:"password"`
 	Url       string    `json:"url"`
-	CreatedAt time.Time `json:"creatdedAt"`
+	CreatedAt time.Time `json:"createdAt"`
 	UpdateAt  time.Time `json:"UpdateAt"`
 }
 
